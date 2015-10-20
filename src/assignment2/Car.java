@@ -1,4 +1,4 @@
-package assignment2;
+package assignment2;//The package calls the library needed to run the program. Without the package, certian commands in the program won't run
 
 public class Car 
 {
