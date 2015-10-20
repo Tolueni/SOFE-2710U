@@ -1,9 +1,9 @@
-package assignment2;
+package assignment2; 
 
 public class Door 
 {
-	private String state;
-	private String name;
+	private String state; //defines state as a string variable
+	private String name; //defines name as a string variable
 	
 	public void open(String sopen)
 	{
